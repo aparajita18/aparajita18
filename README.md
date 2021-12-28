@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aparajita Kar. I am a graduate student at the University of Minnesota, Twin Cities majoring in Industrial Engineering with a focus in Data Analytics and Data Science. 
+- 👀 I’m interested in applying my skills and experiences to understand complex data driven issues and provide insights to solve the business problem using advanced analytics.
+- 🌱 I’m currently learning to apply Machine learning using Python and querying data using SQL.  
+- 📫 Reach me out @aparajitakar@icloud.com
